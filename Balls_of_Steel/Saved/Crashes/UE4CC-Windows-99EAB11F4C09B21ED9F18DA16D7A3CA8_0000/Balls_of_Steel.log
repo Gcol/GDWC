@@ -1,0 +1,1185 @@
+﻿Log file open, 03/19/21 15:01:36
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Balls_of_Steel
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292610
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Genaydrefixe/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/programme/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.19-14.01.36:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:613][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:620][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.19-14.01.36:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.19-14.01.36:621][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.19-14.01.36:621][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.19-14.01.36:621][  0]LogHAL: Display: Platform has ~ 12 GB [12809461760 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.19-14.01.36:621][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.19-14.01.36:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.19-14.01.36:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Scalability.ini]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.19-14.01.36:623][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Config/Windows/Engine.ini]
+[2021.03.19-14.01.36:623][  0]LogInit: Computer: GENAYDREFIXE-PC
+[2021.03.19-14.01.36:623][  0]LogInit: User: Genaydrefixe
+[2021.03.19-14.01.36:623][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.19-14.01.36:623][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.19-14.01.36:623][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2021.03.19-14.01.36:623][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.19-14.01.36:623][  0]LogMemory: Process Physical Memory: 135.09 MB used, 135.09 MB peak
+[2021.03.19-14.01.36:623][  0]LogMemory: Process Virtual Memory: 117.84 MB used, 117.84 MB peak
+[2021.03.19-14.01.36:623][  0]LogMemory: Physical Memory: 6843.89 MB used,  5372.16 MB free, 12216.05 MB total
+[2021.03.19-14.01.36:623][  0]LogMemory: Virtual Memory: 134204352.00 MB used,  13379.25 MB free, 134217728.00 MB total
+[2021.03.19-14.01.36:629][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.19-14.01.36:674][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.19-14.01.36:676][  0]LogInit: Using OS detected language (fr-FR).
+[2021.03.19-14.01.36:676][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.03.19-14.01.36:680][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.03.19-14.01.36:681][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.03.19-14.01.36:682][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.19-14.01.36:689][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.19-14.01.36:709][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.19-14.01.36:709][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.19-14.01.36:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.19-14.01.36:939][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.19-14.01.36:939][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.19-14.01.36:939][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.19-14.01.37:041][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.19-14.01.37:041][  0]LogD3D11RHI:       8088/0/6108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.19-14.01.37:043][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.19-14.01.37:043][  0]LogD3D11RHI:       0/0/6108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.19-14.01.37:043][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.19-14.01.37:049][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.19-14.01.37:049][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.19-14.01.37:049][  0]LogWindows: EnumDisplayDevices:
+[2021.03.19-14.01.37:050][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.19-14.01.37:050][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.19-14.01.37:050][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.19-14.01.37:050][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.19-14.01.37:050][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.19-14.01.37:050][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.19-14.01.37:050][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.03.19-14.01.37:050][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.03.19-14.01.37:050][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.03.19-14.01.37:119][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.19-14.01.37:119][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.19-14.01.37:119][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.19-14.01.37:154][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.19-14.01.37:156][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.19-14.01.37:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.19-14.01.37:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.19-14.01.37:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.19-14.01.37:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.19-14.01.37:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.19-14.01.37:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.19-14.01.37:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.19-14.01.37:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.19-14.01.37:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.19-14.01.37:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.19-14.01.37:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.19-14.01.37:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.19-14.01.37:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.19-14.01.37:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.19-14.01.37:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.19-14.01.37:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.19-14.01.37:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.19-14.01.37:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.19-14.01.37:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.19-14.01.37:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.19-14.01.37:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.19-14.01.37:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.19-14.01.37:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.19-14.01.37:777][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.19-14.01.37:786][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.19-14.01.37:850][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.19-14.01.37:850][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Intermediate/Shaders/WorkingDirectory/4044/).
+[2021.03.19-14.01.37:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Genaydrefixe/AppData/Local/Temp/UnrealShaderWorkingDir/9701C0EE4D3E576F1A4BDD89F9FB43C7/'.
+[2021.03.19-14.01.37:851][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.19-14.01.37:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.19-14.01.38:772][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.19-14.01.38:837][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/Genaydrefixe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.19-14.01.38:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Genaydrefixe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.19-14.01.38:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.19-14.01.38:838][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.19-14.01.38:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.19-14.01.38:838][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.19-14.01.38:852][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.19-14.01.38:852][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.19-14.01.38:852][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.19-14.01.39:131][  0]LogDerivedDataCache: Speed tests for E:/deriveddataUE4 took 0.28 seconds
+[2021.03.19-14.01.39:131][  0]LogDerivedDataCache: Display: Performance to E:/deriveddataUE4: Latency=0.01ms. RandomReadSpeed=688.76MBs, RandomWriteSpeed=3.34MBs. Assigned SpeedClass 'Local'
+[2021.03.19-14.01.39:133][  0]LogDerivedDataCache: Using Local data cache path E:/deriveddataUE4: Writable
+[2021.03.19-14.01.39:133][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.19-14.01.39:133][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.19-14.01.39:187][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.19-14.01.39:188][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.19-14.01.39:221][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.03.19-14.01.39:495][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.19-14.01.39:495][  0]LogInit: Active device profile: [000001CBACA8EA00][000001CBADCB7CC0 49] Windows
+[2021.03.19-14.01.39:495][  0]LogInit: Profiles: [000001CBACA8EA00][000001CBADCB7CC0 49] Windows, [000001CBACA7D800][000001CBADCBE180 49] WindowsNoEditor, [000001CBACA8D800][000001CBADCC2300 49] WindowsServer, [000001CBACA7EA00][000001CBADCC6480 49] WindowsClient, [000001CBACA8ED00][000001CBADCCA600 49] IOS, [000001CBACA7F500][000001CBADCCE780 49] iPadAir, [000001CBACA8D400][000001CBADCD2900 49] iPadAir2, [000001CBACA3BC00][000001CBADCDABC0 49] IPadPro, [000001CBACA3BD00][000001CBADCD6C00 49] iPadAir3, [000001CBACA8EB00][000001CBADCDED80 49] iPadAir4, [000001CBACA39D00][000001CBADCE2F00 49] iPadMini2, [000001CBACA8D600][000001CBADCE7080 49] iPadMini3, [000001CBACA3B800][000001CBADCEB200 49] iPadMini4, [000001CBACA8DD00][000001CBADD01380 49] iPadMini5, [000001CBACA5F500][000001CBADD09640 49] iPhone6, [000001CBACA5F600][000001CBADD05680 49] iPodTouch6, [000001CBACA38200][000001CBADD0D8C0 49] iPhone7, [000001CBACA39B00][000001CBADCBB900 49] iPodTouch7, [000001CBACA5DC00][000001CBADD11A40 49] iPhone5S, [000001CBACA3A400][000001CBADD15B80 49] iPhone6Plus, [000001CBACA5FD00][000001CBADD1DD00 49] iPhone6S, [000001CBACA3B100][000001CBADD201C0 49] iPhone6SPlus, [000001CBACA5F700][000001CBADD24340 49] iPhone7Plus, [000001CBACA3B900][000001CBADD284C0 49] iPhoneSE, [000001CBACA5DA00][000001CBADD2C640 49] iPhone8, [000001CBACA39700][000001CBADD307C0 49] iPhone8Plus, [000001CBACA5C300][000001CBADD34940 49] iPhoneX, [000001CBACA39900][000001CBADD38AC0 49] iPhoneXS, [000001CBACA5FA00][000001CBADD3CC40 49] iPhoneXSMax, [000001CBACA3A000][000001CBADD40DC0 49] iPhoneXR, [000001CBACA5E200][000001CBADD44F40 49] iPhone11, [000001CBACA39F00][000001CBADD490C0 49] iPhone11Pro, [000001CBACA5D200][000001CBADD4D240 49] iPhone11ProMax, [000001CBACA38300][000001CBADD513C0 49] iPhoneSE2, [000001CBACA5EB00][000001CBADD55540 49] iPhone12Mini, [000001CBACA38F00][000001CBADD596C0 49] iPhone12, [000001CBACA5CC00][000001CBADD19800 49] iPhone12Pro, [000001CBACA3B300][000001CBADD5D940 49] iPhone12ProMax, [000001CBACA5FB00][000001CBADD61A80 49] iPadPro105, [000001CBACA38C00][000001CBADD65BC0 49] iPadPro129, [000001CBACA5E500][000001CBADD6DD40 49] iPadPro97, [000001CBACA3A300][000001CBADD70200 49] iPadPro2_129, [000001CBACA5F300][000001CBADD74380 49] iPad5, [000001CBACA38800][000001CBADD78500 49] iPad6, [000001CBACA5D000][000001CBADD7C680 49] iPad7, [000001CBACA3B600][000001CBADD80800 49] iPad8, [000001CBACA5E400][000001CBADD84980 49] iPadPro11, [000001CBACA3AF00][000001CBADD88B00 49] iPadPro2_11, [000001CBACA5E100][000001CBADD8CC80 49] iPadPro3_129, [000001CBACA3A600][000001CBADD90E00 49] iPadPro4_129, [000001CBACA5F100][000001CBADD94F80 49] AppleTV, [000001CBACA7FB00][000001CBADD99100 49] AppleTV4K, [000001CBACB09200][000001CBADD9D280 49] TVOS, [000001CBACA7F100][000001CBADDA1400 49] Mac, [000001CBACA5E300][000001CBADDA5580 49] MacClient, [000001CBACA7DE00][000001CBADDA9700 49] MacNoEditor, [000001CBACA5DD00][000001CBADDAD880 49] MacServer, [000001CBACA7DC00][000001CBADD699C0 49] Linux, [000001CBACA5C600][000001CBADDB1B00 49] LinuxNoEditor, [000001CBACA7C800][000001CBADDB5C40 49] LinuxAArch64NoEditor, [000001CBACA5FF00][000001CBADDBC100 49] LinuxClient, [000001CBACA7C100][000001CBADDC0280 49] LinuxAArch64Client, [000001CBACA5CD00][000001CBADDC4400 49] LinuxServer, [000001CBACA7CC00][000001CBADDC8580 49] LinuxAArch64Server, [000001CBACA5D700][000001CBADDCC700 49] Android, [000001CBACA7D000][000001CBADDD0880 49] Android_Low, [000001CBACA5CB00][000001CBADDD4A00 49] Android_Mid, [000001CBACA7F800][000001CBADDD8B80 49] Android_High, [000001CBACA5F000][000001CBADDDCD00 49] Android_Default, [000001CBACA7DB00][000001CBADDE0E80 49] Android_Adreno4xx, [000001CBACA5D900][000001CBADDE5000 49] Android_Adreno5xx_Low, [000001CBACA7EF00][000001CBADDE9180 49] Android_Adreno5xx, [000001CBACA5D600][000001CBADDED300 49] Android_Adreno6xx, [000001CBACA7E800][000001CBADDF1480 49] Android_Adreno6xx_Vulkan, [000001CBACA5E900][000001CBADDF5600 49] Android_Mali_T6xx, [000001CBACA7E000][000001CBADDF9780 49] Android_Mali_T7xx, [000001CBACA5C200][000001CBADDFD900 49] Android_Mali_T8xx, [000001CBACA7F600][000001CBADDB9A40 49] Android_Mali_G71, [000001CBACA5D300][000001CBADE01B80 49] Android_Mali_G72, [000001CBACA7E500][000001CBADE05CC0 49] Android_Mali_G72_Vulkan, [000001CBACA5FE00][000001CBADE0C180 49] Android_Mali_G76, [000001CBACA7CE00][000001CBADE10300 49] Android_Mali_G76_Vulkan, [000001CBACA5C900][000001CBADE14480 49] Android_Mali_G77, [000001CBACA7F200][000001CBADE18600 49] Android_Mali_G77_Vulkan, [000001CBACA5EC00][000001CBADE1C780 49] Android_Vulkan_SM5, [000001CBACA7E600][000001CBADE20900 49] Android_PowerVR_G6xxx, [000001CBACA5D500][000001CBADE24A80 49] Android_PowerVR_GT7xxx, [000001CBACA7C900][000001CBADE28C00 49] Android_PowerVR_GE8xxx, [000001CBACA5FC00][000001CBADE2CD80 49] Android_PowerVR_GM9xxx, [000001CBACA7E900][000001CBADE30F00 49] Android_PowerVR_GM9xxx_Vulkan, [000001CBACA5E000][000001CBADE35080 49] Android_TegraK1, [000001CBACA8D700][000001CBADE39200 49] Android_Unknown_Vulkan, [000001CBACA3B500][000001CBADE3D380 49] Lumin, [000001CBACA8E700][000001CBADE41500 49] Lumin_Desktop, [000001CBACA3AE00][000001CBADE45680 49] HoloLens, 
+[2021.03.19-14.01.39:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.19-14.01.39:625][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.19-14.01.39:625][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.19-14.01.39:625][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.19-14.01.39:625][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.19-14.01.39:645][  0]LogNetVersion: Balls_of_Steel 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2133946525)
+[2021.03.19-14.01.40:191][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.19-14.01.40:257][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.065520 seconds
+[2021.03.19-14.01.40:264][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.19-14.01.40:264][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.19-14.01.40:264][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.19-14.01.40:666][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.19-14.01.40:672][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.19-14.01.40:769][  0]SourceControl: Source control is disabled
+[2021.03.19-14.01.40:769][  0]SourceControl: Source control is disabled
+[2021.03.19-14.01.40:773][  0]SourceControl: Source control is disabled
+[2021.03.19-14.01.40:776][  0]SourceControl: Source control is disabled
+[2021.03.19-14.01.40:783][  0]SourceControl: Source control is disabled
+[2021.03.19-14.01.40:792][  0]LogUProjectInfo: Found projects:
+[2021.03.19-14.01.40:799][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.19-14.01.40:800][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.19-14.01.41:041][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.19-14.01.41:064][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.19-14.01.41:064][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.19-14.01.41:118][  0]LogCollectionManager: Loaded 0 collections in 0.001683 seconds
+[2021.03.19-14.01.41:143][  0]LogFileCache: Scanning file cache for directory 'E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Collections/' took 0.00s
+[2021.03.19-14.01.41:143][  0]LogFileCache: Scanning file cache for directory 'E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/Developers/Genaydrefixe/Collections/' took 0.00s
+[2021.03.19-14.01.41:143][  0]LogFileCache: Scanning file cache for directory 'E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/Collections/' took 0.00s
+[2021.03.19-14.01.41:143][  0]LogOcInput: OculusInput pre-init called
+[2021.03.19-14.01.41:155][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.19-14.01.41:155][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.19-14.01.41:205][  0]LogEngine: Initializing Engine...
+[2021.03.19-14.01.41:206][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.19-14.01.41:206][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.19-14.01.41:207][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.19-14.01.41:343][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.19-14.01.41:352][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.19-14.01.41:372][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.19-14.01.41:376][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.19-14.01.41:376][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.19-14.01.41:376][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.19-14.01.41:376][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.19-14.01.41:377][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.19-14.01.41:377][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.19-14.01.41:389][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.19-14.01.41:389][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.19-14.01.41:425][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (USB PnP Audio Device)
+[2021.03.19-14.01.41:431][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.19-14.01.41:434][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.19-14.01.41:434][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.19-14.01.41:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.19-14.01.41:435][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.19-14.01.41:435][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.19-14.01.41:436][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.19-14.01.41:436][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.19-14.01.41:436][  0]LogInit: FAudioDevice initialized.
+[2021.03.19-14.01.41:436][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.19-14.01.41:436][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.19-14.01.41:645][  0]LogDerivedDataCache: Saved boot cache 0.21s 77MB C:/Users/Genaydrefixe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.19-14.01.41:667][  0]LogInit: Texture streaming: Enabled
+[2021.03.19-14.01.41:680][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.19-14.01.41:684][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.19-14.01.41:684][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.19-14.01.41:711][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.19-14.01.41:783][  0]LogInit: Transaction tracking system initialized
+[2021.03.19-14.01.41:806][  0]BlueprintLog: New page: Editor Load
+[2021.03.19-14.01.41:881][  0]LocalizationService: Localization service is disabled
+[2021.03.19-14.01.41:912][  0]TimingProfiler: Initialize
+[2021.03.19-14.01.41:912][  0]TimingProfiler: OnSessionChanged
+[2021.03.19-14.01.41:912][  0]LoadingProfiler: Initialize
+[2021.03.19-14.01.41:912][  0]LoadingProfiler: OnSessionChanged
+[2021.03.19-14.01.41:912][  0]NetworkingProfiler: Initialize
+[2021.03.19-14.01.41:912][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.19-14.01.41:912][  0]MemoryProfiler: Initialize
+[2021.03.19-14.01.41:912][  0]MemoryProfiler: OnSessionChanged
+[2021.03.19-14.01.41:969][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.19-14.01.41:969][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.19-14.01.42:058][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.19-14.01.42:058][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.19-14.01.42:255][  0]LogFileCache: Scanning file cache for directory 'E:/Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/' took 0.01s
+[2021.03.19-14.01.42:506][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.19-14.01.42:509][  0]SourceControl: Source control is disabled
+[2021.03.19-14.01.42:509][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.432
+[2021.03.19-14.01.42:509][  0]Cmd: MAP LOAD FILE="../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/Maps/Proto_scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.19-14.01.42:510][  0]LightingResults: New page: Lighting Build
+[2021.03.19-14.01.42:510][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.19-14.01.42:511][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.19-14.01.42:511][  0]MapCheck: New page: Map Check
+[2021.03.19-14.01.42:511][  0]LightingResults: New page: Lighting Build
+[2021.03.19-14.01.42:528][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.03.19-14.01.43:908][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Proto_scene'.
+[2021.03.19-14.01.43:909][  0]LogAIModule: Creating AISystem for world Proto_scene
+[2021.03.19-14.01.44:531][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.19-14.01.44:602][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.03.19-14.01.44:607][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.19-14.01.44:607][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,476ms to complete.
+[2021.03.19-14.01.44:607][  0]LogFileHelpers: Loading map 'Proto_scene' took 2.098
+[2021.03.19-14.01.44:609][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.532
+[2021.03.19-14.01.44:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.01.44:808][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 3601 classes and 859 folders.
+[2021.03.19-14.01.44:811][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.19-14.01.44:813][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.19-14.01.44:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.19-14.01.44:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.03.19-14.01.44:814][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.19-14.01.44:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.19-14.01.44:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.03.19-14.01.44:815][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.19-14.01.44:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.19-14.01.44:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.03.19-14.01.44:816][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.19-14.01.44:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.19-14.01.44:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.19-14.01.44:817][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.19-14.01.44:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.19-14.01.44:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.03.19-14.01.44:818][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.19-14.01.44:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.19-14.01.44:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.03.19-14.01.44:819][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.19-14.01.44:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.19-14.01.44:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.19-14.01.44:820][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.19-14.01.44:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.19-14.01.44:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.19-14.01.44:821][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.19-14.01.44:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.19-14.01.44:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.03.19-14.01.44:822][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.19-14.01.44:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.19-14.01.44:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.19-14.01.44:823][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.19-14.01.44:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.19-14.01.44:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.03.19-14.01.44:824][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.19-14.01.44:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.19-14.01.44:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.19-14.01.44:825][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.19-14.01.44:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.19-14.01.44:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.03.19-14.01.44:826][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.19-14.01.44:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.19-14.01.44:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.03.19-14.01.44:827][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.19-14.01.44:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.19-14.01.44:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.03.19-14.01.44:828][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.19-14.01.44:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.19-14.01.44:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.19-14.01.44:829][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.19-14.01.44:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.19-14.01.44:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.03.19-14.01.44:830][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.19-14.01.44:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.19-14.01.44:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.03.19-14.01.44:831][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.19-14.01.44:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.19-14.01.44:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.19-14.01.44:832][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.19-14.01.44:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.19-14.01.44:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.19-14.01.44:833][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.19-14.01.44:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.19-14.01.44:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.03.19-14.01.44:834][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.19-14.01.44:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.19-14.01.44:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.03.19-14.01.44:835][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.19-14.01.44:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.19-14.01.44:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.03.19-14.01.44:836][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.19-14.01.44:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.19-14.01.44:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.03.19-14.01.44:837][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.19-14.01.44:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.19-14.01.44:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.19-14.01.44:838][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.19-14.01.44:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.19-14.01.44:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.19-14.01.44:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.03.19-14.01.44:901][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.19-14.01.44:907][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.19-14.01.45:337][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.03.19-14.01.45:420][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.19-14.01.46:049][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.19-14.01.46:053][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.19-14.01.46:057][  0]LogSlate: Took 0.001898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.19-14.01.46:285][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.03.19-14.01.46:470][  0]LogRenderer: Reallocating scene render targets to support 564x548 Format 10 NumSamples 1 (Frame:1).
+[2021.03.19-14.01.46:723][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.19-14.01.46:723][  0]LogLoad: (Engine Initialization) Total time: 11.65 seconds
+[2021.03.19-14.01.46:723][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.19-14.01.46:723][  0]LogInit: First time updating LLM stats...
+[2021.03.19-14.01.46:777][  0]LogAssetRegistry: Asset discovery search completed in 7.5569 seconds
+[2021.03.19-14.01.46:779][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.19-14.01.46:870][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.19-14.01.47:418][  2]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.19-14.03.03:652][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.03.19-14.03.03:700][950]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.19-14.03.05:025][950]LogMaterial: Display: Material /Game/Geometry/Meshes/Objects/Material2/Default_white.Default_white needed to have new flag set bUsedWithStaticLighting !
+[2021.03.19-14.03.05:075][950]LogMaterial: Display: Missing cached shader map for material Default_white, compiling. 
+[2021.03.19-14.03.05:205][950]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.03.19-14.03.05:205][950]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.03.19-14.03.05:205][950]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.03.19-14.03.05:205][950]MapCheck: Warning: Default_white Material /Game/Geometry/Meshes/Objects/Material2/Default_white.Default_white was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2021.03.19-14.03.05:574][950]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/UIMenu.UIMenu
+[2021.03.19-14.03.05:584][950]Cmd: MAP LOAD FILE="../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/Maps/UIMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.19-14.03.05:584][950]LightingResults: New page: Lighting Build
+[2021.03.19-14.03.05:584][950]LoadErrors: New page: Loading map: UIMenu.umap
+[2021.03.19-14.03.05:674][950]LogWorld: UWorld::CleanupWorld for Proto_scene, bSessionEnded=true, bCleanupResources=true
+[2021.03.19-14.03.05:675][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.19-14.03.05:690][950]MapCheck: New page: Map Check
+[2021.03.19-14.03.05:730][950]LightingResults: New page: Lighting Build
+[2021.03.19-14.03.05:739][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.19-14.03.05:841][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.03.19-14.03.05:845][950]LogAudio: Display: Audio Device (ID: 1) registered with world 'UIMenu'.
+[2021.03.19-14.03.06:010][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.19-14.03.06:010][950]LogAIModule: Creating AISystem for world UIMenu
+[2021.03.19-14.03.07:719][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.19-14.03.07:758][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.19-14.03.07:758][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2021.03.19-14.03.07:759][950]LogFileHelpers: Loading map 'UIMenu' took 2.175
+[2021.03.19-14.03.08:106][950]LogSlate: Took 0.024620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.19-14.03.11:062][264]LogSlate: Window 'Message Log' being destroyed
+[2021.03.19-14.03.11:065][264]LogSlate: Window 'Message Log' being destroyed
+[2021.03.19-14.04.22:556][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/RobotLevel/RobotLevel.RobotLevel
+[2021.03.19-14.04.24:835][332]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.03.19-14.04.27:874][332]LogSlate: Took 0.015821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.19-14.04.28:964][333]LogSlate: Took 0.017744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.19-14.04.31:384][540]LogSlate: Window 'RobotLevel' being destroyed
+[2021.03.19-14.13.03:918][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.03.19-14.13.03:920][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/UIMenu' took 0.046
+[2021.03.19-14.13.04:000][475]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/RobotLevel/RobotLevel] ([1] browsable assets)...
+[2021.03.19-14.13.04:000][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/RobotLevel/RobotLevel]
+[2021.03.19-14.13.04:250][475]LogSavePackage: Moving '../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/RobotLevel_Auto1764B9EC648BFC1DB0A1ED388589826FF.tmp' to '../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/Autosaves/Game/Blueprints/RobotLevel/RobotLevel_Auto1.uasset'
+[2021.03.19-14.13.04:304][475]LogFileHelpers: Auto-saving content packages took 0.364
+[2021.03.19-14.16.29:088][113]BlueprintLog: New page: Compile RobotLevel
+[2021.03.19-14.16.29:285][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.03.19-14.16.56:997][370]BlueprintLog: New page: Compile RobotLevel
+[2021.03.19-14.16.57:045][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.03.19-14.16.57:704][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/RobotLevel/RobotLevel" FILE="../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/Blueprints/RobotLevel/RobotLevel.uasset" SILENT=true
+[2021.03.19-14.16.57:741][423]LogSavePackage: Moving '../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Saved/RobotLevelCB64871B472CB928EF032A8560DA6239.tmp' to '../../../../../Jeux projet/Jam/Broken Steel/GWDC/Balls_of_Steel/Content/Blueprints/RobotLevel/RobotLevel.uasset'
+[2021.03.19-14.16.57:773][423]AssetCheck: New page: Asset Save: RobotLevel
+[2021.03.19-14.16.57:773][423]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/RobotLevel/RobotLevel.RobotLevel
+[2021.03.19-14.16.59:461][617]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.19-14.16.59:547][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.19-14.16.59:646][617]PIE: New page: PIE session: UIMenu (19 mars 2021 à 16:16:59)
+[2021.03.19-14.16.59:664][617]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.19-14.16.59:675][617]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.19-14.16.59:697][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_UIMenu
+[2021.03.19-14.16.59:731][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033301s)
+[2021.03.19-14.16.59:748][617]LogAIModule: Creating AISystem for world UIMenu
+[2021.03.19-14.16.59:764][617]LogPlayLevel: PIE: World Init took: (0.033053s)
+[2021.03.19-14.16.59:764][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/UIMenu.UIMenu to /Game/Maps/UEDPIE_0_UIMenu.UIMenu (0.066730s)
+[2021.03.19-14.16.59:789][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.03.19-14.16.59:791][617]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.19-14.16.59:791][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.19-14.16.59:791][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.19-14.16.59:792][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.19-14.16.59:792][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.19-14.16.59:795][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.19-14.16.59:795][617]LogAudioMixer: Display: 1: FrontRight
+[2021.03.19-14.16.59:806][617]LogAudioMixer: Display: Using Audio Device Haut-parleurs (USB PnP Audio Device)
+[2021.03.19-14.16.59:806][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.19-14.16.59:806][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.19-14.16.59:806][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.19-14.16.59:807][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.19-14.16.59:807][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.19-14.16.59:807][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.19-14.16.59:821][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.19-14.16.59:821][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.19-14.16.59:821][617]LogInit: FAudioDevice initialized.
+[2021.03.19-14.16.59:821][617]LogAudio: Display: Audio Device (ID: 2) registered with world 'UIMenu'.
+[2021.03.19-14.16.59:940][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.19-14.16.59:972][617]LogLoad: Game class is 'GM_UImenu_C'
+[2021.03.19-14.17.00:203][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_UIMenu.UIMenu up for play (max tick rate 0) at 2021.03.19-15.17.00
+[2021.03.19-14.17.00:313][617]LogWorld: Bringing up level for play took: 0.131949
+[2021.03.19-14.17.00:313][617]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.19-14.17.00:486][617]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.03.19-14.17.00:714][617]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.19-14.17.00:714][617]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.19-14.17.00:715][617]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.03.19-14.17.00:767][617]PIE: Server logged in
+[2021.03.19-14.17.00:779][617]PIE: Play in editor total start time 1,306 seconds.
+[2021.03.19-14.17.00:900][617]LogAudio: Warning: Detected orphaned looping sound 'music_menu_boucle_Cue'.
+[2021.03.19-14.17.01:156][618]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.03.19-14.17.01:540][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.03.19-14.17.02:965][753]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2021.03.19-14.17.07:967][236]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2021.03.19-14.17.08:357][273]LogNet: Browse: /Game/Maps/Proto_scene
+[2021.03.19-14.17.08:376][273]LogLoad: LoadMap: /Game/Maps/Proto_scene
+[2021.03.19-14.17.08:376][273]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_UIMenu
+[2021.03.19-14.17.08:377][273]LogWorld: UWorld::CleanupWorld for UIMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.19-14.17.08:377][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.19-14.17.08:447][273]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.19-14.17.08:541][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.03.19-14.17.08:889][273]LogAudio: Display: Audio Device (ID: 2) registered with world 'Proto_scene'.
+[2021.03.19-14.17.08:890][273]LogAIModule: Creating AISystem for world Proto_scene
+[2021.03.19-14.17.08:892][273]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.03.19-14.17.09:319][273]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene up for play (max tick rate 0) at 2021.03.19-15.17.09
+[2021.03.19-14.17.09:322][273]LogWorld: Bringing up level for play took: 0.429286
+[2021.03.19-14.17.09:322][273]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.19-14.17.09:399][273]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.03.19-14.17.09:399][273]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.03.19-14.17.09:496][273]LogLoad: Took 1.119375 seconds to LoadMap(/Game/Maps/Proto_scene)
+[2021.03.19-14.17.10:239][320]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.14:274][486]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.14:274][486]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent15: Material index 1 is invalid.
+[2021.03.19-14.17.16:258][546]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.17:269][576]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.18:274][606]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.18:274][606]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent5: Material index 1 is invalid.
+[2021.03.19-14.17.20:267][668]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.21:236][715]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.21:236][715]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent4: Material index 1 is invalid.
+[2021.03.19-14.17.23:236][871]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.25:249][941]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.25:249][941]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.26:265][973]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.27:248][  4]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.28:276][ 37]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.28:276][ 37]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent17: Material index 1 is invalid.
+[2021.03.19-14.17.30:264][100]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.31:250][131]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.31:250][131]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent17: Material index 1 is invalid.
+[2021.03.19-14.17.32:254][163]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.32:254][163]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent19: Material index 1 is invalid.
+[2021.03.19-14.17.34:253][226]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.34:253][226]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent23: Material index 1 is invalid.
+[2021.03.19-14.17.35:271][258]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.37:253][321]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.42:261][481]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.42:261][481]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent23: Material index 1 is invalid.
+[2021.03.19-14.17.43:247][512]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.47:239][698]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.48:233][783]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.48:233][783]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent5: Material index 1 is invalid.
+[2021.03.19-14.17.51:252][954]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.52:269][986]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.52:269][986]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent11: Material index 1 is invalid.
+[2021.03.19-14.17.53:247][ 17]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.55:270][ 81]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.55:270][ 81]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.55:270][ 81]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent18: Material index 1 is invalid.
+[2021.03.19-14.17.57:275][144]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.58:258][175]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.17.58:258][175]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent4: Material index 1 is invalid.
+[2021.03.19-14.18.00:263][239]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.01:265][269]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.02:267][299]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.02:267][299]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.02:267][299]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent2: Material index 1 is invalid.
+[2021.03.19-14.18.04:258][362]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.04:258][362]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent18: Material index 1 is invalid.
+[2021.03.19-14.18.05:261][394]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.06:273][426]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.07:246][457]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.07:246][457]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent22: Material index 1 is invalid.
+[2021.03.19-14.18.08:274][489]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.10:256][551]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.12:275][662]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.13:245][692]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.14:261][723]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.14:261][723]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent22: Material index 1 is invalid.
+[2021.03.19-14.18.15:247][754]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.15:247][754]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.16:253][785]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.17:267][817]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.17:267][817]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.18:267][848]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.19:252][879]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.19:252][879]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent23: Material index 1 is invalid.
+[2021.03.19-14.18.20:277][911]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.25:239][249]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.25:239][249]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.28:239][504]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.29:237][588]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.30:240][673]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.31:234][757]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.32:239][842]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.33:240][926]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.33:240][926]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent15: Material index 1 is invalid.
+[2021.03.19-14.18.35:236][ 96]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.37:236][264]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.38:234][348]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.39:234][431]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.39:234][431]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.39:234][431]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent5: Material index 1 is invalid.
+[2021.03.19-14.18.41:236][602]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.42:239][685]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.45:236][938]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.46:234][ 22]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.47:241][105]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.47:242][105]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.48:233][189]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.50:255][306]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.51:259][338]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.52:273][370]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.53:255][401]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.53:255][401]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.54:273][433]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.55:260][464]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.56:246][495]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.57:255][527]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.57:255][527]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.58:273][559]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.18.58:273][559]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent22: Material index 1 is invalid.
+[2021.03.19-14.18.59:252][590]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.01:259][653]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.02:256][683]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.03:261][715]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.03:261][715]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.05:242][802]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.06:240][885]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.07:277][928]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.08:257][958]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.08:257][958]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.09:258][990]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.09:258][990]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.09:258][990]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent21: Material index 1 is invalid.
+[2021.03.19-14.19.10:276][ 22]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.12:249][ 85]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.13:270][117]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.13:270][117]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.14:253][148]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.16:248][211]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.16:248][211]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.17:247][243]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.17:247][243]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.19:263][307]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.21:253][370]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.22:269][402]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.28:266][592]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.33:266][861]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.33:266][861]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.34:249][892]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.34:249][892]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent15: Material index 1 is invalid.
+[2021.03.19-14.19.34:249][892]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.36:263][956]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.36:263][956]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent19: Material index 1 is invalid.
+[2021.03.19-14.19.37:257][988]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.38:260][ 20]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.39:255][ 52]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.40:260][ 84]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.40:260][ 84]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.42:254][148]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.46:257][277]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.46:257][277]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent19: Material index 1 is invalid.
+[2021.03.19-14.19.46:257][277]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.46:257][277]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint2.SimpleWallBloc_BP_H14_StaticMeshComponent2: Material index 1 is invalid.
+[2021.03.19-14.19.48:259][341]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.50:275][406]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.53:232][542]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.54:266][615]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.55:248][646]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.56:266][678]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.57:277][710]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.58:262][741]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.19.59:238][799]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.00:232][883]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.00:232][883]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent19: Material index 1 is invalid.
+[2021.03.19-14.20.02:240][ 54]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.04:265][163]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.05:249][194]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.10:257][353]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.11:276][385]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.12:258][416]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.13:259][447]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.14:258][478]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.16:232][555]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.17:236][641]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.19:237][811]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.21:239][981]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.24:233][236]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.24:233][236]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent19: Material index 1 is invalid.
+[2021.03.19-14.20.24:233][236]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.25:238][321]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.25:238][321]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.26:237][407]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.27:237][492]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.28:241][579]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.30:237][750]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.31:232][835]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.31:232][835]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent19: Material index 1 is invalid.
+[2021.03.19-14.20.32:240][922]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.34:241][ 92]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.36:261][220]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.36:261][220]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent12: Material index 1 is invalid.
+[2021.03.19-14.20.37:261][252]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.39:250][316]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.42:272][412]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.44:267][476]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.45:257][508]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.46:251][540]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.47:252][572]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.47:252][572]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.48:277][605]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.49:249][636]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.52:268][734]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.55:257][830]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.20.55:257][830]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Maps/UEDPIE_0_Proto_scene.Proto_scene:PersistentLevel.3x1_wall2_Blueprint.SimpleWallBloc_BP_H14_StaticMeshComponent12: Material index 1 is invalid.
+[2021.03.19-14.21.01:246][ 22]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.04:231][244]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.06:246][346]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.09:254][443]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.09:254][443]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.11:247][507]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.12:252][539]LogScript: Warning: Script Msg: Attempted to access index 52 from array 'Liste des murs' of length 52 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.13:253][570]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.15:233][654]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.16:234][738]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.17:234][824]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.18:236][909]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.20:240][ 79]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.23:240][335]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.25:234][504]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.26:278][586]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.27:258][617]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.29:268][680]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.29:268][680]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.30:260][711]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.32:272][774]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.34:270][837]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.35:253][868]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.36:237][946]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.37:241][ 32]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.38:245][ 68]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.42:267][196]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.43:245][227]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.48:254][388]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.49:260][420]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.52:233][669]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.53:241][754]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Liste material' of length 2 in '/Game/Blueprints/3x1_wall2_Blueprint.3x1_wall2_Blueprint_C'!
+[2021.03.19-14.21.53:565][780]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.19-14.21.53:565][780]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.19-14.21.53:565][780]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.03.19-14.21.53:594][780]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.19-14.21.55:876][780]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.282 s
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: 
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: Ensure condition failed: NumChildren == MyChildren->Num() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/SlateCore/Private/Widgets/SWidget.cpp] [Line: 1538]
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: 
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: Stack: 
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05cc4f59 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27f0c UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b27e37 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05b2ee83 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05f09b0d UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05ed955a UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05f0b514 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05eda0e7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05f31e97 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd05f3169a UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c3ae69 UE4Editor.exe!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c511ac UE4Editor.exe!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c5128a UE4Editor.exe!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c652ed UE4Editor.exe!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ff6d7c6801a UE4Editor.exe!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd853c7034 KERNEL32.DLL!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: [Callstack] 0x00007ffd86082651 ntdll.dll!UnknownFunction []
+[2021.03.19-14.21.55:886][780]LogOutputDevice: Error: 
